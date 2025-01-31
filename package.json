@@ -1,6 +1,7 @@
 {
   "name": "lumel-assessment",
   "version": "0.1.0",
+  "homepage":"http://Vigneshraj77.github.io/lumel-assessment/",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.3",
@@ -15,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages-clean gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
