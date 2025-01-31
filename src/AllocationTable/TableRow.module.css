@@ -1,0 +1,14 @@
+.BtnAllocate{
+    height: 2rem;
+    padding:0.5rem;
+    border-bottom-width: var(--bs-border-width) !important;
+    border-top-width: var(--bs-border-width) !important;
+
+}
+.InputAll{
+    height: 2rem;
+    width: 70%;
+    border-bottom-width: var(--bs-border-width) !important;
+    border-top-width: var(--bs-border-width) !important;
+    appearance: none;
+}
